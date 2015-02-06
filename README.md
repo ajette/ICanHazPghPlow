@@ -11,3 +11,6 @@ This adds a button to the Pittsburgh plow maps that lets you see all data over t
 ### After clicking the "View All Data" button
 You can of course zoom in like normal
 ![Alt text](/screenshots/allview.png?raw=true "After Clicking Button")
+
+### Why?
+Because I'm genuinely curious about what streets aren't making the cut. Utilizing data city council members, citizens, or DPW can analyze at a glance a map during a snow emergency and easily determine what streets were left untouched.

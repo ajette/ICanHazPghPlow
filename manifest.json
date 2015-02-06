@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+
+  "name": "Getting started example",
+  "description": "This extension shows a Google Image search result for the current page",
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "run_at": "document_end",
+      "matches": ["http://city.temeda.com/*"],
+      "js": ["jquery-1.11.2.min.js", "snowplowall.js"]
+    }
+  ],
+  "permissions": [
+    "activeTab",
+    "http://city.temeda.com/*"
+  ]
+}

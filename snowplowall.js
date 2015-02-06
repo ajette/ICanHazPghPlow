@@ -26,6 +26,7 @@ function layerAllData(onLoad) {
   if (onLoad) {
     // pop in our button after the reset
     $( "#resetMapButton" ).append($('<div id="allDataMap"><input class="menu_btn" type="button" onclick="layerAllData()" value="View All Data"/></div>'))  
+    $( "#legend" ).append($('<div id="theRouteTableId">myDoc=' + routeTableID + '</div>'));
   }
 
   // if there's a myDoc provided on load or if this is being called not on load

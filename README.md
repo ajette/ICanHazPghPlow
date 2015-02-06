@@ -13,7 +13,7 @@ You can of course zoom in like normal
 ![Alt text](/screenshots/allview.png?raw=true "After Clicking Button")
 
 ### Can I view past snowplow information?
-Sure. You'll need the docid of where the information is stored. Then just pass that in as the GET parameter 'myDoc'. See the URL as an example: I can take a quick look at the south side and see what was missed during this event.
+Sure. You'll need the docid of where the information is stored. Then just pass that in as the GET parameter 'myDoc' (e.g. http://city.temeda.com/?myDoc=1HazqkFFjicP0bzKUB2qoM41q-i1QQIvBHIjRjwrq) See the URL as an example: I can take a quick look at the south side and see what was missed during this event.
 ![Alt text](/screenshots/mydoc.png?raw=true "Viewing Past Storm Event (missing salted roads circled)")
 
 ### Where is the docId?

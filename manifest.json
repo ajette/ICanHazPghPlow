@@ -1,8 +1,9 @@
 {
   "manifest_version": 2,
 
-  "name": "Getting started example",
-  "description": "This extension shows a Google Image search result for the current page",
+  "name": "ICanHazPghPlow",
+  "short_name": "HazPghPlow",
+  "description": "Adds a button that lets you view all Pittsburgh Plow Data",
   "version": "1.0",
   "content_scripts": [
     {

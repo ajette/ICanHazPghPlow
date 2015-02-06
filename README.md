@@ -1,2 +1,12 @@
 # ICanHazPghPlow
-I'd like to see all of the plow data that happened in this snow emergency not just in a timeframe window.
+This adds a button to the Pittsburgh plow maps that lets you see all data over the course of the storm event. Lets you (or the city) know what streets have not been plowed at all in the course of the storm event.
+
+## How to install? 
+* It's a chrome extension. You can just clone this repo and unpack it locally in chrome in developer mode.
+
+### Normal view of plows, restricted to raw data
+![Alt text](/screenshots/normalview.png?raw=true "Normal Plow View")
+
+### After clicking the "View All Data" button
+You can of course zoom in like normal
+![Alt text](/screenshots/allview.png?raw=true "After Clicking Button")

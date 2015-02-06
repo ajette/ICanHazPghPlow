@@ -1,5 +1,5 @@
 # ICanHazPghPlow
-This adds a button to the Pittsburgh plow maps that lets you see all data over the course of the storm event. Lets you (or the city) know what streets have not been plowed at all in the course of the storm event.
+This adds a button to the Pittsburgh plow maps that lets you see all data over the course of the storm event or view past storm events. Lets you (or the city) know what streets have not been plowed at all in the course of the storm event.
 
 ## How to install? 
 * It's a chrome extension. You can just clone this repo and unpack it locally in chrome in developer mode.

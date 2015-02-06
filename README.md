@@ -13,8 +13,13 @@ You can of course zoom in like normal
 ![Alt text](/screenshots/allview.png?raw=true "After Clicking Button")
 
 ### Can I view past snowplow information?
-Sure. You'll need the docid of where the information is stored. Then just pass that in as the GET parameter 'myDoc'. I'll add in functionality to find the docid's easily but if you root around you can find them. See the URL as an example: I can take a quick look at the south side and see what was missed during this event.
+Sure. You'll need the docid of where the information is stored. Then just pass that in as the GET parameter 'myDoc'. See the URL as an example: I can take a quick look at the south side and see what was missed during this event.
 ![Alt text](/screenshots/mydoc.png?raw=true "Viewing Past Storm Event (missing salted roads circled)")
+
+### Where is the docId?
+I put it in the legend for easy cut and paste and storage for later.
+
+![Alt text](/screenshots/legendWithDoc.png?raw=true "Legend (with myDoc)")
 
 ### Why?
 Because I'm genuinely curious about what streets aren't making the cut. Utilizing data city council members, citizens, or DPW can analyze at a glance a map during a snow emergency and easily determine what streets were left untouched.

@@ -3,7 +3,7 @@ This adds a button to the Pittsburgh plow maps that lets you see all data over t
 
 ## How to install? 
 * It's a chrome extension. You can just clone this repo and unpack it locally in chrome in developer mode.
-* Okay, I published it also. https://chrome.google.com/webstore/detail/icanhazpghplow/hecnkipdakpeciljiompkdmjjaccfcnp?hl=en-US&gl=US
+* Okay, I published it also. [Chrome Extension](https://chrome.google.com/webstore/detail/icanhazpghplow/hecnkipdakpeciljiompkdmjjaccfcnp?hl=en-US&gl=US)
 
 ### Normal view of plows, restricted to raw data
 ![Alt text](/screenshots/normalview.png?raw=true "Normal Plow View")
